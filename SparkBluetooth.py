@@ -1,3 +1,7 @@
+# From code here: https://github.com/jrnelson90/tinderboxpedal
+# But stripped down to basic connectivity and cycling through presets 1 second apart
+# Mostly to test bluetooth connectivity
+
 import bluetooth
 import time
 
